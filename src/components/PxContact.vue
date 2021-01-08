@@ -11,10 +11,11 @@
       />
     </div>
     <div class="flex flex-col  items-center justify-center py-10 h-full ">
-      <div class="w-2/5 text-justify">
-        Shalalalala lalalala lalalala lalalala lalalala lalalala lalalala
-        lalalala lalalala lalalala lalalala lalalala lalalala lalalala
-        lalalalalalalala
+      <div class="w-2/5 text-center">
+        Andy Jhoao Huacre Molina estudiante del Instituto Tecnologico de
+        Cuautla. <br />
+        <b>Conmutación y enrutamiento de redes de datos</b><br />
+        Correo de contacto : <b>andy_joao@live.com</b>
       </div>
     </div>
   </main>
